@@ -1,0 +1,29 @@
+.search{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text{
+    /* margin-left: 40px; */
+    margin-top: 60px;
+    width: 60%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px lightgrey;
+}
+.right__title{
+    color: blue;
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+    margin-top: 60px;
+    font-size: 30px;
+    
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 920px;
+}

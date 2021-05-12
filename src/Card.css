@@ -1,0 +1,32 @@
+.comp{
+    display: flex;
+    flex-wrap: row;
+    flex-wrap: wrap;
+    max-width : 100%;
+    margin-top: 30px !important;
+}
+.card{
+    margin-right: 34px;
+    margin-bottom: 30px;
+}
+
+.card_head img{
+    height: 120px;
+    width: 150px;
+    border-radius: 10px;
+}
+.card_bottom{
+    box-shadow: 0px 3px 0px 0px lightgrey;
+    border-radius: 5px;
+    margin-top: -20px;
+    background-color: white;
+    position: relative;    
+    width: 150px;
+    height: 50px;
+    color: blue;
+}
+.card_text{
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;;
+}

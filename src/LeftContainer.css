@@ -1,0 +1,15 @@
+.check{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.box{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: white;
+    color: blue;
+    margin-bottom: 5px;
+
+}
+.box label{
+    font-weight: 500;
+}
